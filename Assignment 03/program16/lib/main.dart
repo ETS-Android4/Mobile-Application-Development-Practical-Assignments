@@ -56,7 +56,7 @@ class Home extends StatelessWidget {
                   ),
                 ),
                 Container(
-                  margin: const EdgeInsets.fromLTRB(0, 600, 0, 0),
+                  margin: const EdgeInsets.fromLTRB(0, 500, 0, 0),
                   child: const Align(
                     alignment: Alignment.bottomCenter,
                     child: // your widget
